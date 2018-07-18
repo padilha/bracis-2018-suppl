@@ -1,4 +1,4 @@
-## A Study of Biclustering Coherence Measures for Gene Expression Data</h1>
+## A Study of Biclustering Coherence Measures for Gene Expression Data
 
 Victor A. Padilha and André C. P. L. F. de Carvalho<br/>
 Institute of Mathematics and Computer Sciences, University of São Paulo, São Carlos, SP, Brazil<br/>
