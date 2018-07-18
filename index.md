@@ -1,4 +1,4 @@
-## title: A Study of Biclustering Coherence Measures for Gene Expression Data
+## A Study of Biclustering Coherence Measures for Gene Expression Data
 
 *Abstract:* Biclustering algorithms have become one of the main tools for the analysis of gene expression data.
 They allow the identification of local patterns defined by subsets of genes and subsets of samples, which cannot
