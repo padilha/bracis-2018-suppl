@@ -1,1 +1,3 @@
-theme: jekyll-theme-minimal
+#Jekyll config
+url : http://padilha.github.io 
+baseurl: /bracis_2018_suppl
