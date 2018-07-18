@@ -14,4 +14,4 @@ external evaluation regarding 9 algorithms from the literature on gene expressio
 experimental results, there is no clear relation between these measures and assessment using information from
 gene ontology
 
-[Supplementary data.](Bracis_2018_suppl.pdf)
+[Supplementary material.](Bracis_2018_suppl.pdf)
