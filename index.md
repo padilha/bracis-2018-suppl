@@ -1,8 +1,8 @@
 ## A Study of Biclustering Coherence Measures for Gene Expression Data
 
-Victor A. Padilha and André C. P. L. F. de Carvalho
-Institute of Mathematics and Computer Sciences, University of São Paulo, São Carlos, SP, Brazil
-Email: victorpadilha@usp.br, andre@icmc.usp.br
+Victor A. Padilha and André C. P. L. F. de Carvalho  
+Institute of Mathematics and Computer Sciences, University of São Paulo, São Carlos, SP, Brazil  
+Email: victorpadilha@usp.br, andre@icmc.usp.br  
 
 *Abstract:* Biclustering algorithms have become one of the main tools for the analysis of gene expression data.
 They allow the identification of local patterns defined by subsets of genes and subsets of samples, which cannot
