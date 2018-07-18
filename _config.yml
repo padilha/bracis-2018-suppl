@@ -1,4 +1,5 @@
 #Jekyll config
 url : http://padilha.github.io/bracis_2018_suppl
+baseurl: /bracis_2018_suppl
 
 Title: BRACIS 2018 supplementary material
