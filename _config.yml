@@ -2,6 +2,6 @@
 url : http://padilha.github.io 
 baseurl: /bracis_2018_suppl
 
-theme: jekyll-theme-minimal
-
 Title: Biclustering
+
+theme: jekyll-theme-minimal
