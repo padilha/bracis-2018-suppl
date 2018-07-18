@@ -1,4 +1,7 @@
-## A Study of Biclustering Coherence Measures for Gene Expression Data
+---
+layout: page
+title: A Study of Biclustering Coherence Measures for Gene Expression Data
+---
 
 *Abstract:* Biclustering algorithms have become one of the main tools for the analysis of gene expression data.
 They allow the identification of local patterns defined by subsets of genes and subsets of samples, which cannot
@@ -10,3 +13,5 @@ scenarios. To deal with this problem, this paper analyze the behavior of 15 bicl
 external evaluation regarding 9 algorithms from the literature on gene expression datasets. According to the
 experimental results, there is no clear relation between these measures and assessment using information from
 gene ontology
+
+[Supplementary data.](Bracis_2018_suppl.pdf)
