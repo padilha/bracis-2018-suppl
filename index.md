@@ -13,6 +13,6 @@ most of these publications do not provide an extensive comparison of bicluster c
 scenarios. To deal with this problem, this paper analyze the behavior of 15 bicluster coherence measures and
 external evaluation regarding 9 algorithms from the literature on gene expression datasets. According to the
 experimental results, there is no clear relation between these measures and assessment using information from
-gene ontology
+gene ontology.
 
 [Supplementary material.](Bracis_2018_suppl.pdf)
