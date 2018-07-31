@@ -16,3 +16,4 @@ experimental results, there is no clear relation between these measures and asse
 gene ontology.
 
 [Supplementary material.](Bracis_2018_suppl.pdf)
+[Measures implementations.](bicmeasures.zip)
